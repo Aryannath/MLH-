@@ -1,3 +1,3 @@
 ## Hi 
   
-  **change this thext from bold to italic**
+  *changed this text from bold to italic*
